@@ -25,7 +25,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  align-items: center;
   background-color: var(--Light-grayish-blue);
   font-family: "Barlow Semi Condensed", sans-serif;
 }
@@ -34,6 +33,7 @@ body {
   width: 84em;
   justify-content: center;
   display: grid;
+  align-items: center;
   gap: 2em;
   grid-template: repeat(2, 1fr) / repeat(4, 1fr);
 }
