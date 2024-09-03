@@ -34,6 +34,7 @@ body {
   width: 84em;
   justify-content: center;
   display: grid;
+  align-items: center;
   gap: 2em;
   grid-template: repeat(2, 1fr) / repeat(4, 1fr);
 }
