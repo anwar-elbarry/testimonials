@@ -25,6 +25,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  align-items: center;
   background-color: var(--Light-grayish-blue);
   font-family: "Barlow Semi Condensed", sans-serif;
 }
